@@ -1,0 +1,4 @@
+sdadc.c:33:6:MX_SDADC1_Init	24	static
+sdadc.c:109:6:MX_SDADC3_Init	24	static
+sdadc.c:185:6:HAL_SDADC_MspInit	64	static
+sdadc.c:299:6:HAL_SDADC_MspDeInit	16	static
